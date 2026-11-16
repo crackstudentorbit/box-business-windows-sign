@@ -57,11 +57,11 @@ Paid Box Business — **free in our launcher**, paid on the official site.
 
 ## Screenshots
 
-![Box](preview.png)
+<p align="center"><img src="preview.png" alt="Box" width="420"></p>
 
 Aivora launcher hub — **Office and cloud** → **Box**:
 
-![Aivora Launcher](assets/launcher-main.png)
+<p align="center"><img src="assets/launcher-main.png" alt="Aivora Launcher" width="720"></p>
 
 ## FAQ
 
